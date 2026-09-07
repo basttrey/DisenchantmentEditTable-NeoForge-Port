@@ -1,0 +1,20 @@
+{
+  "block.editenchanting.enchantment_edit_table": "祛魔編輯台",
+  "tile.container.disenchant": "祛魔",
+  "desc.editenchanting.export": "導出花費：",
+  "desc.editenchanting.edit": "編輯花費：",
+  "desc.editenchanting.cost": "祛魔花費：",
+  "desc.editenchanting.experience": "%s 級經驗",
+  "desc.editenchanting.item": "%s 個%s",
+  "desc.editenchanting.enchant_slot": "祛魔欄物品：",
+  "desc.editenchanting.book_slot": "附魔書屬性：",
+  "desc.editenchanting.tip": "提示：",
+  "desc.editenchanting.require": "需要%s",
+  "desc.editenchanting.exp": "經驗",
+  "desc.editenchanting.shift": "[SHIFT]",
+  "desc.editenchanting.empty": "                  ",
+  "config.editenchanting.max_text_width": "72",
+  "config.editenchanting.position": "90",
+  "subtitles.block.disenchantment_table.use": "祛魔台：使用",
+  "subtitles.block.disenchantment_table.page_turn": "祛魔台：翻頁"
+}

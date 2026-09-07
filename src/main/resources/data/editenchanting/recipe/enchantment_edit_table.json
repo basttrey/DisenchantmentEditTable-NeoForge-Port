@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "C": {
+      "item": "minecraft:chiseled_quartz_block"
+    },
+    "D": {
+      "tag": "c:storage_blocks/diamond"
+    },
+    "L": {
+      "tag": "c:storage_blocks/lapis"
+    },
+    "O": {
+      "tag": "c:obsidians/normal"
+    }
+  },
+  "pattern": [
+    "LOL",
+    "DBD",
+    "COC"
+  ],
+  "result": {
+    "id": "editenchanting:enchantment_edit_table",
+    "count": 1
+  },
+  "show_notification": true
+}

@@ -1,0 +1,20 @@
+{
+  "block.editenchanting.enchantment_edit_table": "Disenchantment Edit Table",
+  "tile.container.disenchant": "Disenchant",
+  "desc.editenchanting.export": "Export Cost:",
+  "desc.editenchanting.edit": "Edit Cost:",
+  "desc.editenchanting.cost": "Disenchant Cost:",
+  "desc.editenchanting.experience": "%s EXP",
+  "desc.editenchanting.item": "%s %s",
+  "desc.editenchanting.enchant_slot": "Disenchant Slot:",
+  "desc.editenchanting.book_slot": "Attributes:",
+  "desc.editenchanting.tip": "Tip: ",
+  "desc.editenchanting.require": "Require %s",
+  "desc.editenchanting.exp": "EXP",
+  "desc.editenchanting.shift": "[SHIFT]",
+  "desc.editenchanting.empty": "                           ",
+  "config.editenchanting.max_text_width": "110",
+  "config.editenchanting.position": "125",
+  "subtitles.block.disenchantment_table.use": "Disenchanting Table used",
+  "subtitles.block.disenchantment_table.page_turn": "Disenchanting Table rustles"
+}

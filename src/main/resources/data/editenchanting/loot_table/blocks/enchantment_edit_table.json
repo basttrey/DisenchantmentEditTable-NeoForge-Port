@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "editenchanting:enchantment_edit_table"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "editenchanting:blocks/enchantment_edit_table"
+}

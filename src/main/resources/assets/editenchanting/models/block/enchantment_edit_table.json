@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/enchanting_table",
+  "textures": {
+    "particle": "minecraft:block/obsidian",
+    "bottom": "editenchanting:block/enchantment_edit_table_bottom",
+    "top": "editenchanting:block/enchantment_edit_table_top",
+    "side": "editenchanting:block/enchantment_edit_table_side"
+  }
+}
